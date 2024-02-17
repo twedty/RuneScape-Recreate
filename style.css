@@ -27,13 +27,16 @@ body{
 #people{
     text-align: center;
 }
+.box1-3{
+    display: flex;
+    flex-direction: column;
+}
 #game{
     display: flex;
     position: relative;
     left: 23em;
     top: 1.5em;
     z-index: 1;
-    background-color: black;
     width: 3%;
 }
 .box1{
@@ -47,6 +50,29 @@ body{
     padding: 1em;
 }
 .box1color{
+    color: greenyellow;
+    text-decoration: none;
+    font-size: 15px;
+}
+#community{
+    position: relative;
+    left: 21.5em;
+    top: .5em;
+    z-index: 1;
+    width: 7.5%;
+}
+.box2{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #654321;
+    background-color: black;
+    width: 20%;
+    position: relative;
+    left: 15em;
+    padding: 1em;
+    margin-top: -1em;
+}
+.box2color{
     color: greenyellow;
     text-decoration: none;
     font-size: 15px;
