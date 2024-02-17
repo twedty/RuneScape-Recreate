@@ -1,0 +1,53 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+body{
+    background-image: url(https://www.runescape.com/img/rsp777/bg2.jpg);
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: black;
+    color: white;
+}
+#login{
+    color: greenyellow;
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid #654321;
+    width: 60%;
+    margin: auto;
+    font-size: 20px;
+    background-color: black;
+    text-decoration: none;
+}
+#title-image{
+    display: flex;
+    width: 65%;
+    margin: auto;
+    justify-content: center;
+}
+#people{
+    text-align: center;
+}
+#game{
+    display: flex;
+    position: relative;
+    left: 23em;
+    top: 1.5em;
+    z-index: 1;
+    background-color: black;
+    width: 3%;
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #654321;
+    background-color: black;
+    width: 20%;
+    position: relative;
+    left: 15em;
+    padding: 1em;
+}
+.box1color{
+    color: greenyellow;
+    text-decoration: none;
+    font-size: 15px;
+}
