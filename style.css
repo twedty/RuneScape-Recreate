@@ -77,3 +77,26 @@ body{
     text-decoration: none;
     font-size: 15px;
 }
+#account{
+    position: relative;
+    left: 22em;
+    top: .5em;
+    z-index: 1;
+    width: 7.5%;
+}
+.box3{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #654321;
+    background-color: black;
+    width: 20%;
+    position: relative;
+    left: 15em;
+    padding: 1em;
+    margin-top: -1em;
+}
+.box3color{
+    color: greenyellow;
+    text-decoration: none;
+    font-size: 15px;
+}
