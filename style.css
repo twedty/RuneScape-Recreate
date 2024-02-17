@@ -100,3 +100,61 @@ body{
     text-decoration: none;
     font-size: 15px;
 }
+.fun1-3{
+    border: 1px solid black;
+    width: 40%;
+    margin: auto;
+    position: relative;
+    bottom: 33.25em;
+    left: 10em;
+    display: flex;
+    justify-content: space-evenly;
+}
+.fun1{
+    background-image: url(https://www.runescape.com/img/rsp777/splash/compare_users.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    display:flex;
+    flex-direction: column;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 13px;
+    align-items: center;
+    width: 40%;
+    height:10em;
+    text-decoration: none;
+    color:white;
+}
+.fun2{
+    background-image: url(https://www.runescape.com/img/rsp777/splash/compare_users.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    display:flex;
+    flex-direction: column;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 13px;
+    align-items: center;
+    width: 40%;
+    height:10em;
+    text-decoration: none;
+    color:white;
+}
+.fun3{
+    background-image: url(https://www.runescape.com/img/rsp777/splash/compare_users.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    display:flex;
+    flex-direction: column;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 13px;
+    align-items: center;
+    width: 40%;
+    height:10em;
+    text-decoration: none;
+    color:white;
+}
+p{
+    border: 1px solid black;
+}
